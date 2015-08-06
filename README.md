@@ -131,7 +131,7 @@ public class HelloWorldActivityTest extends ActivityInstrumentationTestCase2<Hel
 
   ![JUnit_IMG_003](http://cafeptthumb1.phinf.naver.net/20150806_223/soulduse_14388377475415qNuU_PNG/JUnit005.PNG?type=w740)
 
-JUnit 프레임워크의 유용한 클래스들 _ Assert class
+JUnit 프레임워크의 유용한 클래스들 Assert class
 --------------------------------
 
 ![JUnit_IMG_004](http://cafeptthumb1.phinf.naver.net/20150806_128/soulduse_1438837217588vc8R7_PNG/JUnit001.PNG?type=w740)
